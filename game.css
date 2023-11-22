@@ -129,6 +129,7 @@ html,body{
         height: 20px;
      }
      .bubble{
-        overflow: hidden;
+       height: 10%;
+       margin-top: 2vh;
      }
 }
