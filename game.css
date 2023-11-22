@@ -123,10 +123,10 @@ html,body{
     }
     
      #box{
-        height: 3vh
+        height: 20px;
      }
      #box2{
-        height: 3vh
+        height: 20px;
      }
      .bubble{
         overflow: hidden;
