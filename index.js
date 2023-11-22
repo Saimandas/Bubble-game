@@ -2,7 +2,7 @@
 var scr=5;
 var num;
 var c;
-
+function play(){
 function make_bubble(){
     var a= "";
 
@@ -57,9 +57,11 @@ function r(){
     }
 }
 
-r();
+r();}
+var ply= document.querySelector("#menu button");
+ply.addEventListener("click", function(){
+    play();
+})
 
-   
-    
 
 
